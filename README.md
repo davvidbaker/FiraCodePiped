@@ -1,5 +1,5 @@
 # Fira Code Piped
-[Fira Code](https://github.com/tonsky/FiraCode) with stylish pipes that connect when vertically aligned. All that has been changed is the pipeline ligature `|>`.
+[Fira Code](https://github.com/tonsky/FiraCode) with distinguished pipes that connect when vertically aligned. All that has been changed is the pipeline ligature `|>`.
 ![image](https://user-images.githubusercontent.com/6373939/55113983-6624ed00-50a6-11e9-8a7a-530b5d476e47.png)
 
 Your eye can follow the pipe through gaps.
